@@ -26,7 +26,7 @@ class FlyableBird extends Bird {
 	}
 
 	fly = () => {
-		console.log(`${this.name}が飛びました`);
+		console.log(`${this.name}が飛びました!!!!`);
 	};
 }
 
